@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Progress Checker',
       theme: ThemeData(
-        scaffoldBackgroundColor: Color(0xFFEEF1F8),
+        scaffoldBackgroundColor: Color.fromARGB(255, 0, 0, 0),
         primarySwatch: Colors.blue,
         fontFamily: "Intel",
         inputDecorationTheme: InputDecorationTheme(

@@ -58,7 +58,7 @@ void showCustomDialog(BuildContext context, {required ValueChanged onValue}) {
                       const SizedBox(
                         height: 70,
                       ),
-                      const SignInForm(),
+                      SignInForm(),
                       Row(
                         children: const [
                           Expanded(
