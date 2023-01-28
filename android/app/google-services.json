@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076242677396",
+    "project_id": "fir-progress-checker",
+    "storage_bucket": "fir-progress-checker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076242677396:android:41beed3fc704b9a995be81",
+        "android_client_info": {
+          "package_name": "com.example.progress_checker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076242677396-l0ptgs8ssr033gralns6le7di1d10gtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_nRwNwWaDhM_d6TGntHvJ649XbD_CMs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076242677396-l0ptgs8ssr033gralns6le7di1d10gtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
